@@ -1,5 +1,7 @@
 # FinalProjectSegment1Deliverable
-1	Name	:Establish temperature trends in specific Metro cities of Europe, US, China, India and Middle East																	
+1	Name:
+		Establish temperature trends in specific Metro cities of Europe, US, China, India and Middle East																	
+
 2	Why this topic
 
 		Quantify if add green initiatives may be helping reduce global warming	
